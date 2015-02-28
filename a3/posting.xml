@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE postings SYSTEM "posting.dtd">
+<postings>
+	<posting pID="p1">
+		<position> Software Engineer </position>
+		<reqSkill what="Java" level="1" importance="1"/>
+		<reqSkill what="C" level="2" importance="5"/>
+		<reqSkill what="Perl" level="1" importance="3"/>
+		<reqSkill what="Python" level="5" importance="1"/>
+		<questions>
+			<question qID="q1">
+				Are you good at Java?
+			</question>
+		</questions>
+	</posting>
+
+	<posting pID="p2">
+		<position> Database Engineer </position>
+		<reqSkill what="R" level="1" importance="1"/>
+		<reqSkill what="MATLAB" level="5" importance="3"/>
+		<questions>
+			<question qID="q2">
+				Are you good at R?
+			</question>
+			<question qID="q3">
+				Are you good at Python?
+			</question>
+		</questions>
+	</posting>
+
+	<posting pID="p3">
+		<position> Software Developer </position>
+		<reqSkill what="Scheme" level="5" importance="5"/>
+		<reqSkill what="R" level="1" importance="1"/>
+		<reqSkill what="XQuery" level="2" importance="4" />
+		<questions>
+			<question qID="q4">
+				Are you good at debugging?
+			</question>
+		</questions>
+	</posting>
+
+</postings>

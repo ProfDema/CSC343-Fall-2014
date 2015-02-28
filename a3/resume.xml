@@ -1,0 +1,136 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE resumes SYSTEM "resume.dtd">
+<resumes>
+
+    <resume rID="r1">
+    	<summary> 
+    		I would like to find a working environment where I could work on apple products.
+    	</summary>
+    	<identification>
+    		<name>
+    			<forename> Steve </forename> 
+    			<surname> Jobs </surname>
+    			<honorific> PhD </honorific>
+    		</name>
+    		<sex> Male </sex>
+    		<DOB> 08/09/1970 </DOB>
+    		<citizenship> American </citizenship>
+    		<address> 123 Apple st </address>
+    		<telephone> 416 967 1111 </telephone>
+    		<email> SteveJobs@gmail.com </email>
+    	</identification>
+    	<skills>
+    		<skill what="Java" level="5"/>
+    		<skill what="C" level="5"/>
+    		<skill what="Python" level="5"/>
+    		<skill what="R" level="5"/>
+    	</skills>
+    </resume>
+
+    <resume rID="r2">
+    	<summary>
+    		I love working on windows.
+    	</summary>
+    	<identification>
+    		<name>
+    			<forename> Bill </forename> 
+    			<surname> Gates </surname>
+    			<honorific> Masters </honorific>
+    		</name>
+    		<sex> Male </sex>
+    		<DOB> 12/12/1950 </DOB>
+    		<citizenship> American </citizenship>
+    		<address> 123 Window st </address>
+    		<telephone> 416 888 9999 </telephone>
+    		<email> GatesB@gmail.com </email>
+    	</identification>
+    	<education>
+    		<degree level="masters">
+    			<degreeName>Bachleor of Science</degreeName>
+    			<institution>UofT</institution>
+    			<major>Computer Science</major>
+    			<period>
+    				<startDate>09/09/1960</startDate>
+    				<endDate>08/12/1964</endDate>
+    			</period>
+    		</degree>
+    	</education>
+    	<skills>
+    		<skill what="Perl" level="5"/>
+    		<skill what="C" level="2"/>
+    		<skill what="Python" level="5"/>
+    		<skill what="Shell" level="4"/>
+    	</skills>
+    </resume>
+
+    <resume rID="r3">
+    	<summary>
+    		I love working on stuff.
+    	</summary>
+    	<identification>
+    		<name>
+    			<forename> Tom </forename> 
+    			<surname> Hardy </surname>
+    			<honorific> None </honorific>
+    			<title> Mr </title>
+    		</name>
+    		<sex> Male </sex>
+    		<DOB> 12/12/1990 </DOB>
+    		<citizenship> Canadian </citizenship>
+    		<address> 123 Bloor st </address>
+    		<telephone> 416 111 1111 </telephone>
+    		<email> Bane@gmail.com </email>
+    	</identification>
+    	<experience>
+    		<position where="ActorsRUs">
+    			<title> Actor </title>
+    			<description> I did acting in batman </description>
+    			<period>
+    				<startDate> 01/01/2005 </startDate>
+    				<endDate> 02/02/2008 </endDate> 
+    			</period>
+    		</position>
+    	</experience>
+    	<skills>
+    		<skill what="XQuery" level="1"/>
+    	</skills>
+    </resume>
+
+    <resume rID="r5">
+        <summary>
+            I love working on windows.
+        </summary>
+        <identification>
+            <name>
+                <forename> Bill </forename> 
+                <surname> Gates </surname>
+                <honorific> Masters </honorific>
+            </name>
+            <sex> Male </sex>
+            <DOB> 12/12/1950 </DOB>
+            <citizenship> American </citizenship>
+            <address> 123 Window st </address>
+            <telephone> 416 888 9999 </telephone>
+            <email> GatesB@gmail.com </email>
+        </identification>
+        <education>
+            <degree level="masters">
+                <degreeName>Bachleor of Science</degreeName>
+                <institution>UofT</institution>
+                <major>Computer Science</major>
+                <period>
+                    <startDate>09/09/1960</startDate>
+                    <endDate>08/12/1964</endDate>
+                </period>
+            </degree>
+        </education>
+        <skills>
+            <skill what="Perl" level="5"/>
+            <skill what="C" level="2"/>
+            <skill what="Python" level="5"/>
+            <skill what="Shell" level="4"/>
+        </skills>
+    </resume>
+
+
+</resumes>

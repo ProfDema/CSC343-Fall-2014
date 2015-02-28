@@ -1,0 +1,67 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE interviews SYSTEM "interview.dtd">
+<interviews>
+
+	<interview rID="r1" pID="p2" sID="s1">
+		<date>09/08/1997</date>
+		<time>12:00pm</time>
+		<location>Bahen</location>
+		<assessment>
+			<answers>
+				<answer qID="q2">5</answer>
+				<answer qID="q3">5</answer>
+			</answers>
+			<techProficiency>5</techProficiency>
+			<communication>5</communication>
+			<enthusiasm>5</enthusiasm>
+			<collegiality>0</collegiality>
+		</assessment>
+	</interview>
+
+		<interview rID="r2" pID="p1" sID="s2">
+		<date>09/08/1900</date>
+		<time>1:00pm</time>
+		<location>White House</location>
+		<assessment>
+			<answers>
+				<answer qID="q1">0</answer>
+			</answers>
+			<techProficiency>1</techProficiency>
+			<communication>2</communication>
+			<enthusiasm>1</enthusiasm>
+		</assessment>
+	</interview>
+
+	<interview rID="r3" pID="p3" sID="s3">
+		<date>09/08/1400</date>
+		<time>11:00pm</time>
+		<location>Robarts</location>
+		<assessment>
+			<answers>
+				<answer qID="q4">0</answer>
+			</answers>
+			<techProficiency>0</techProficiency>
+			<communication>0</communication>
+			<enthusiasm>0</enthusiasm>
+		</assessment>
+	</interview>
+	
+	<interviewer sID="s1">
+		<forename>Tom</forename>
+		<surname>Riddle</surname>
+		<honorific>Bachleors</honorific>
+	</interviewer>
+
+	<interviewer sID="s2">
+		<forename>Harry</forename>
+		<surname>Potter</surname>
+		<honorific>Masters</honorific>
+	</interviewer>	
+
+	<interviewer sID="s3">
+		<forename>Tim</forename>
+		<surname>Hortons</surname>
+		<honorific>Masters</honorific>
+	</interviewer>	
+
+</interviews>
